@@ -16,7 +16,7 @@ require (
 	go.starlark.net v0.0.0-20200901195727-6e684ef5eeee
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
 	golang.org/x/net v0.0.0-20200822124328-c89045814202
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/sync v0.4.0
 	golang.org/x/sys v0.0.0-20200831180312-196b9ba8737a
 	google.golang.org/grpc v1.32.0
 	google.golang.org/protobuf v1.25.0
